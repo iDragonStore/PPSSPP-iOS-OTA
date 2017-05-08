@@ -1,0 +1,1 @@
+/Applications/BetaBuilder.app/Contents/Resources/README
